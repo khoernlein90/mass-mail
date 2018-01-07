@@ -1,1 +1,1 @@
-# emaily
+# mass-mail
